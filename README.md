@@ -12,3 +12,5 @@ https://wordpress.org/plugins/blighty-explorer/
 https://wordpress.org/plugins/oasis-workflow/
 
 https://wordpress.org/plugins/google-scholar/
+
+https://wordpress.org/plugins/wp-crontrol/
