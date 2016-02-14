@@ -14,3 +14,5 @@ https://wordpress.org/plugins/oasis-workflow/
 https://wordpress.org/plugins/google-scholar/
 
 https://wordpress.org/plugins/wp-crontrol/
+
+https://wordpress.org/plugins/bwp-polldaddy/
