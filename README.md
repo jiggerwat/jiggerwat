@@ -16,3 +16,5 @@ https://wordpress.org/plugins/google-scholar/
 https://wordpress.org/plugins/wp-crontrol/
 
 https://wordpress.org/plugins/bwp-polldaddy/
+
+https://wordpress.org/plugins/pipdig-snapcode-widget/
